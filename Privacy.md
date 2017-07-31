@@ -11,9 +11,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# ENG:    Feeding & Diapers  /  Feeding & Nappies
+**Privacy Notice:**  nobody but you gets access to the data you enter and store using the application. 
+Network connection is necessary for communication with advertisement provider and for the possibility 
+to buy in-app products (premium version with no ads). 
+
+## SPA:    Alimentación y Pañales
+**Confidencialidad:**  nadie más que usted tiene acceso a los datos que introduzca y guardar con la aplicación. 
+La conexión de red es necesaria para la comunicación con el proveedor de publicidad y para la posibilidad de 
+comprar productos en la aplicación (versión premium sin publicidad).
 
 - Bulleted
 - List
