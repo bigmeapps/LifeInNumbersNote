@@ -1,5 +1,6 @@
 <img src="http://i.imgur.com/O6JR4pr.png" width="128">  
-Developer: "BigMeApps"           
+Developer: "BigMeApps"
+E-mail: feedback.bigmeapps@gmail.com
 02 Aug 2017
 
 ### ENG:    Feeding & Diapers  /  Feeding & Nappies
