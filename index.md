@@ -4,7 +4,7 @@ E-mail: feedback.bigmeapps@gmail.com
 
 02 Aug 2017
 
-### ENG:    Feeding & Diapers  /  Feeding & Nappies
+### ENG:    Breastfeeding & Diapers  /  Breastfeeding & Nappies
 **Privacy Notice:**  nobody but you gets access to the data you enter and store using the application. 
 Network connection is necessary for communication with advertisement provider and for the possibility 
 to buy in-app products (premium version with no ads). 
