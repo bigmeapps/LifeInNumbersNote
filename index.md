@@ -2,7 +2,7 @@
 
 E-mail: feedback.bigmeapps@gmail.com 
 
-02 Aug 2017
+16 Jul 2018
 
 ### ENG:    BabyAppy: Breastfeeding  /  BabyAppy: Formula feeding
 **Privacy Notice:**  only you have access to the data you enter and store using the application. 
