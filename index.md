@@ -14,13 +14,20 @@ All information is taken from open sources and represents average data. The appl
 
 Toda la información se toma de fuentes abiertas y representa datos promedio. El desarrollador de la aplicación no es responsable de la exactitud de los datos.
 
-<!--
-### FRA:    Tétées et couches
-**Remarque sur la confidentialité:**  personne, sauf si vous avez accès aux données que vous avez entrées et entreposez à l'aide de l'application. La connexion au réseau est nécessaire pour la communication avec le fournisseur de publicité et pour la possibilité d'acheter des produits dans une application (version premium sans publicité).-->
-<!--
-### DEU:    Fütterung & Windeln
-**Privatsphäre und Datenschutz:**  Keiner, aber man bekommt Zugriff auf die Daten, die Sie mit der Anwendung eingeben und speichern. Netzwerkverbindung erforderlich ist für die Kommunikation mit Werbeanbietern und für die Möglichkeit, In-App-Produkte zu kaufen (Premium-Version ohne Anzeigen).
--->
+### FRA:    La vie en chiffres
+**Remarque sur la confidentialité:**  personne, sauf si vous avez accès aux données que vous avez entrées à l'aide de l'application. La connexion au réseau est nécessaire pour la communication avec le fournisseur de publicité.
+
+Toutes les informations proviennent de sources ouvertes et représentent des données moyennes. Le développeur de l'application n'est pas responsable de l'exactitude des données.
+
+### DEU:    Leben in Zahlen
+**Privatsphäre und Datenschutz:**  Keiner, aber man bekommt Zugriff auf die Daten, die Sie mit der Anwendung eingeben. Netzwerkverbindung erforderlich ist für die Kommunikation mit Werbeanbietern.
+
+Alle Informationen aus öffentlich zugänglichen Quellen entnommen und stellen Durchschnittsdaten dar. Der Anwendungsentwickler ist nicht für die Richtigkeit der Angaben verantwortlich.
+
+### POL:    Życie w liczbach
+**Ochrona prywatności:**  nikt nie dostaje dostępu do danych wprowadzanych za pomocą aplikacji. Połączenie z siecią jest konieczne do komunikacji z dostawcą reklam.
+
+Wszystkie informacje pochodzą z otwartych źródeł i reprezentują średnie dane. Deweloper nie ponosi odpowiedzialności za dokładność informacji.
 
 ### RUS:    Жизнь в цифрах
 **Конфиденциальность / Условия:**  никто кроме вас не имеет доступа к данным, которые вы вводите при использовании приложения. Подключение к интернету необходимо для коммуникации с рекламным провайдером.
